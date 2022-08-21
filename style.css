@@ -1,5 +1,58 @@
 @import url("//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
 
+
+/* Hero Container */
+
+.main{
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e9dfce;
+  overflow: hidden;
+}
+
+.text-box .text{
+  position: relative;
+  font-weight: 600;
+ }
+
+ .first-text {
+  color: #000000;
+ 
+}
+.sec-text{
+  color: #f15927;
+}
+
+a{
+  position: relative;
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+ }
+ .text.sec-text:before{
+ 
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* font-size: 50px; */
+  height: 100%;
+  width: 100%;
+  background-color: #e9dfce;
+  border-left: 2px solid black;
+  animation: animate 4s steps(12) infinite;
+ }
+  @keyframes animate{
+   40%, 60%{
+     left: 100%;
+   }
+   100%{
+     left: 100%;
+   } 
+ } 
+
 /* About Image */
 
 .about-img{
@@ -45,3 +98,7 @@
     transform: rotate(-360deg);
   }
 }
+
+
+/* Portfolio Layout */
+
