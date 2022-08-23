@@ -6,10 +6,10 @@ This portfolio showcases all of the applications that I has created through the 
 
 # Mock-up
 
-![Landing](/Images/landing_page.png)
-![About](/Images/about_page.png)
-![My Work](/Images/mywork.png)
-![Mobile View](/Images/Screen%20Shot%202022-08-23%20at%2012.14.21%20PM.png)
+![Landing](/images/landing_page.png)
+![About](/images/about_page.png)
+![My Work](/images/mywork.png)
+![Mobile View](/images/Screen%20Shot%202022-08-23%20at%2012.14.21%20PM.png)
 	
 
 
