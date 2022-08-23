@@ -6,7 +6,7 @@ This portfolio showcases all of the applications that I has created through the 
 
 # Deployed Site
 
-> 
+> https://sherrickm.github.io/portfolio-2/
 
 # GitHub Repo
 
